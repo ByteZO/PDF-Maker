@@ -38,8 +38,8 @@ async function generatePdf(data) {
 }
 
 const data = {
-  name: "Gopaljeet Narayan",
-  email: "gopaljeet@example.com",
+  name: "YOUR NAME",
+  email: "YOUR EMAIL",
   message: "This is a dynamic PDF generated using pdf-lib.",
 };
 
